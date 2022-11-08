@@ -7,7 +7,13 @@ const MainStack = createStackNavigator();
 const MainNavigation = () => {
   return (
     <MainStack.Navigator>
-      <MainStack.Screen name={MainRoutes.Dashboard} component={Dashboard} />
+      <MainStack.Screen
+        name={MainRoutes.Dashboard}
+        component={Dashboard}
+        options={{
+          title: '',
+        }}
+      />
       <MainStack.Screen name={MainRoutes.Settings} component={Settings} />
     </MainStack.Navigator>
   );

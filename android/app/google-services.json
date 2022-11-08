@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "485561968577",
+    "project_id": "coscooter-eu-staging",
+    "storage_bucket": "coscooter-eu-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485561968577:android:99a7f7dec9e6388724f140",
+        "android_client_info": {
+          "package_name": "com.comodule.tuul.personal.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485561968577-7m0ljstn66h4vpub48hus8icjsdif8u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.comodule.tuul.personal.staging",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "485561968577-kbomnalh4d3tflqk84coi5gvnq3cbhcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTuExji6yC_8sqT5nOC22c0MhKfZ3aXsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485561968577-k2meio9n43khlgu25a1vn1177rbmh8i1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485561968577-b051mvn5u34f45ema53l3kv3l1h5rmje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.comodule.tuul.personal.staging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.newproject;
+package com.comodule.tuul.personal.staging;
 
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
