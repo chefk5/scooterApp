@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>485561968577-b051mvn5u34f45ema53l3kv3l1h5rmje.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.485561968577-b051mvn5u34f45ema53l3kv3l1h5rmje</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>485561968577-7m0ljstn66h4vpub48hus8icjsdif8u1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwsUpe4F3bFu83QqYO15sy2YiWsWSG3Ys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>485561968577</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.comodule.tuul.personal.staging</string>
+	<key>PROJECT_ID</key>
+	<string>coscooter-eu-staging</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coscooter-eu-staging.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:485561968577:ios:1d88bb4fe903383224f140</string>
+</dict>
+</plist>
