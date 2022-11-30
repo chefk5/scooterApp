@@ -1,18 +1,18 @@
 ## Scooter app
 
-### Some explanation:
+A task for one of the positions I applied for. The user shpuld be able to pair with a scooter and then find it on the map. After the that, the user can see some information about the scooter (batter, name etc). The user can also create an account and login.
 
-My aim was  to use Typescript with the latest version of RN. However, when installing RN Firebase, I faced alot of problems with pods configurations. I ended up using an older version of RN 0.67 and Firebase worked (after some effort). 
-I also had linting, husky, prettier, eslint and everything configured in the typescript version. But with this version, linting is a bit more simpler.
+- Libraries used: 
+  - google maps
+  - firebase
+  - react navigation
+  
+#### Improvemnts
 
-I have resued some components in login and signup but on the map screen the situation was a bit more chaotic. At least, I was able to demonstrate my ability.
+- Move folders inside a src folders
+- add infomration about the scooter into one hook
 
-I think that the api for sending orders had a problem (Could be from my side too?), I was getting 401. So I commented it out and assumed it was working.
 
-I tried my best to understand the task and come up with assumptions. I hope I was able to build what was required in the task.
 
-I think I have missed some points but I solved most of what was asked.
-
-Looking forward to your feedback.
-
+https://user-images.githubusercontent.com/18053083/204766897-1d99f136-e4f6-4b0c-aabb-f8ae2dc500d0.mov
 
