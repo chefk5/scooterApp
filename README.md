@@ -7,7 +7,7 @@ A task for one of the positions I applied for. The user shpuld be able to pair w
   - firebase
   - react navigation
   
-#### Improvemnts
+#### Improvements 
 
 - Move folders inside a src folders
 - add infomration about the scooter into one hook
